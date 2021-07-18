@@ -1,4 +1,4 @@
-![Back-End developer & Robotic researcher](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -28,8 +28,8 @@
 [![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![Docker](https://img.shields.io/badge/-Docker-gray?style=flat&logo=docker&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![ROS](https://img.shields.io/badge/-ROS-blue?style=flat&logo=ros&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
-[![Redis](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=redis&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange?style=flat&logo=rabbitmq&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
+[![Redis](https://img.shields.io/badge/-Redis-blue?style=flat&logo=redis&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=rabbitmq&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 
 [![UnitTest](https://img.shields.io/badge/-UnitTest-green?style=flat&logo=test&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![OpenCV](https://img.shields.io/badge/-OpenCV-white?style=flat&logo=opencv&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
