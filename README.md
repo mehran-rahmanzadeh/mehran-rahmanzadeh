@@ -2,7 +2,9 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Mehran Rahmanzadeh a Back-End Developer from Iran.
+### Hello! I'm Mehran Rahmanzadeh.
+### Back-End Developer & Robotic researcher
+### From Iran.
 
 <a href="https://www.linkedin.com/in/mehran-rahmanzadeh-996161204/">
   <img align="left" alt="Mehran Rahmanzadeh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
