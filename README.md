@@ -27,7 +27,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 
-[![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
+[![Django](https://img.shields.io/badge/-Django-2f7b15?style=flat&logo=django&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![Docker](https://img.shields.io/badge/-Docker-gray?style=flat&logo=docker&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![ROS](https://img.shields.io/badge/-ROS-blue?style=flat&logo=ros&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=redis&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
