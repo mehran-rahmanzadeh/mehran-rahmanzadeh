@@ -45,11 +45,11 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![GitFlow](https://img.shields.io/badge/-GitFlow-silver?style=flat&logo=git&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![Celery](https://img.shields.io/badge/-Celery-blue?style=flat&logo=celery&link=https://github.com/mrhnz)](https://github.com/mrhnz)
-[![JWT](https://img.shields.io/badge/-JWT-FCA121?style=flat&logo=json&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz)
+[![JWT](https://img.shields.io/badge/-JWT-FCA121?style=flat&logo=json&link=https://github.com/mrhnz)](https://github.com/mrhnz)
 
-[![Pixhawk](https://img.shields.io/badge/-Pixhawk-gray?style=flat&logo=drone&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz)
-[![Dronekit](https://img.shields.io/badge/-dronekit-red?style=flat&logo=drone&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz)
-[![arduino](https://img.shields.io/badge/-arduino-blue?style=flat&logo=arduino&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz)
-[![moveit](https://img.shields.io/badge/-moveit-gray?style=flat&logo=pandas&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz)
+[![Pixhawk](https://img.shields.io/badge/-Pixhawk-gray?style=flat&logo=drone&link=https://github.com/mrhnz)](https://github.com/mrhnz)
+[![Dronekit](https://img.shields.io/badge/-dronekit-red?style=flat&logo=drone&link=https://github.com/mrhnz)](https://github.com/mrhnz)
+[![arduino](https://img.shields.io/badge/-arduino-blue?style=flat&logo=arduino&link=https://github.com/mrhnz)](https://github.com/mrhnz)
+[![moveit](https://img.shields.io/badge/-moveit-gray?style=flat&logo=pandas&link=https://github.com/mrhnz)](https://github.com/mrhnz)
 
 ⭐️ From [@mrhnz](https://github.com/mrhnz)
