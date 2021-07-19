@@ -3,21 +3,23 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I'm Mehran Rahmanzadeh.
-### Back-End Developer & Robotic researcher
+### Back-End Developer & Robotic researcher.
 
 
 <a href="https://www.linkedin.com/in/mehran-rahmanzadeh-996161204/">
-  <img align="left" alt="Mehran Rahmanzadeh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Mehran Rahmanzadeh" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/imrhnz">
-  <img align="left" alt="Mehran Rahmanzadeh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Mehran Rahmanzadeh" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br />
 <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
+
+<br />
+
 ### 👨‍💻 Languages and Tools
 
 <br />
@@ -33,14 +35,21 @@
 [![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=redis&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=rabbitmq&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 
-[![UnitTest](https://img.shields.io/badge/-UnitTest-green?style=flat&logo=test&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
-[![OpenCV](https://img.shields.io/badge/-OpenCV-yellow?style=flat&logo=opencv&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
-[![OOP](https://img.shields.io/badge/-OOP-purple?style=flat&logo=programming&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
-[![SQL](https://img.shields.io/badge/-SQL-02569B?style=flat&logo=database&link=https://github.com/mrhnz)](https://github.com/mrhnz)
+[![UnitTest](https://img.shields.io/badge/-UnitTest-gray?style=flat&logo=pytest&link=https://github.com/mrhnz)](https://github.com/mrhnz)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-yellow?style=flat&logo=opencv&link=https://github.com/mrhnz)](https://github.com/mrhnz)
+[![OOP](https://img.shields.io/badge/-OOP-purple?style=flat&logo=programming&link=https://github.com/mrhnz)](https://github.com/mrhnz)
+[![SQL](https://img.shields.io/badge/-SQL-02569B?style=flat&logo=sqlite&link=https://github.com/mrhnz)](https://github.com/mrhnz)
+[![Ubuntu](https://img.shields.io/badge/-ubuntu-white?style=flat&logo=ubuntu&link=https://github.com/mrhnz)](https://github.com/mrhnz)
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat&logo=postgresql&link=https://github.com/mrhnz)](https://github.com/mrhnz)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
+[![GitFlow](https://img.shields.io/badge/-GitFlow-silver?style=flat&logo=git&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![Celery](https://img.shields.io/badge/-Celery-blue?style=flat&logo=celery&link=https://github.com/mrhnz)](https://github.com/mrhnz)
-[![JWT](https://img.shields.io/badge/-JWT-FCA121?style=flat&logo=authentication&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz) 
+[![JWT](https://img.shields.io/badge/-JWT-FCA121?style=flat&logo=json&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz)
+
+[![Pixhawk](https://img.shields.io/badge/-Pixhawk-gray?style=flat&logo=drone&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz)
+[![Dronekit](https://img.shields.io/badge/-dronekit-red?style=flat&logo=drone&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz)
+[![arduino](https://img.shields.io/badge/-arduino-blue?style=flat&logo=arduino&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz)
+[![moveit](https://img.shields.io/badge/-moveit-gray?style=flat&logo=pandas&link=https://github.com/mrhnz)](https://gitlab.com/mrhnz)
 
 ⭐️ From [@mrhnz](https://github.com/mrhnz)
