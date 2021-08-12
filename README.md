@@ -41,7 +41,6 @@
 [![OOP](https://img.shields.io/badge/-OOP-purple?style=flat&logo=programming&link=https://github.com/mrhnz)](https://github.com/mrhnz)
 [![SQL](https://img.shields.io/badge/-SQL-02569B?style=flat&logo=sqlite&link=https://github.com/mrhnz)](https://github.com/mrhnz)
 [![Ubuntu](https://img.shields.io/badge/-ubuntu-white?style=flat&logo=ubuntu&link=https://github.com/mrhnz)](https://github.com/mrhnz)
-[![gunicorn](https://img.shields.io/badge/-gunicorn-white?style=flat&logo=gunicorn&link=https://github.com/mrhnz)](https://github.com/mrhnz)
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat&logo=postgresql&link=https://github.com/mrhnz)](https://github.com/mrhnz)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
