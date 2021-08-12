@@ -34,6 +34,7 @@
 [![ROS](https://img.shields.io/badge/-ROS-blue?style=flat&logo=ros&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=redis&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=rabbitmq&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
+[![Nginx](https://img.shields.io/badge/-Nginx-green?style=flat&logo=nginx&link=https://github.com/mrhnz)](https://github.com/mrhnz) 
 
 [![UnitTest](https://img.shields.io/badge/-UnitTest-gray?style=flat&logo=pytest&link=https://github.com/mrhnz)](https://github.com/mrhnz)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-yellow?style=flat&logo=opencv&link=https://github.com/mrhnz)](https://github.com/mrhnz)
